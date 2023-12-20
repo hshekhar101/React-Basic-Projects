@@ -1,0 +1,88 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* width: 100%; */
+  display: inline-block;
+  height: 10vh;
+  position: relative;
+  top: 550px;
+  background-color: rgb(229, 228, 230);
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+.btn{
+  margin: 5px 4px;
+  padding: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 15px;
+  font-style: normal;
+  font-size: 15px;
+  cursor: pointer;
+}
+/* 
+#Red{
+  background-color: red;
+  color: white;
+}
+
+#Green{
+  background-color: green;
+  color: white;
+}
+
+#Blue{
+  background-color: blue;
+  color: white;
+}
+
+#Olive{
+  background-color: Olive;
+  color: white;
+}
+
+#Gray{
+  background-color: gray;
+  color: white;
+}
+
+#Yellow{
+  background-color: Yellow;
+  color: black;
+}
+
+#Purple{
+  background-color: Purple;
+  color: white;
+}
+
+#Pink{
+  background-color: Pink;
+  color: black;
+}
+
+#Lavender{
+  background-color: Lavender;
+  color: black;
+}
+
+#white{
+  background-color: white;
+  color: black;
+}
+
+#Black{
+  background-color: Black;
+  color: white;
+} */
+
+
