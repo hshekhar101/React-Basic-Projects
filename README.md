@@ -4,11 +4,11 @@ Welcome to my awesome project! This project does amazing things.
 
 ## Background Colour changer
 
-Visit the website : [bg-color-changer](https://bg-clr-changer.netlify.app/){target="_blank"}
+Visit our website: <a href="https://bg-clr-changer.netlify.app/" target="_blank">bg-color-changer</a>
 
 ## Password Generator
 
-Visit the website : [password-generator-app](https://password-generator-appli.netlify.app/){target="_blank"}
+Visit our website: <a href="https://password-generator-appli.netlify.app/" target="_blank">password-generator-app</a>
 
 ## Getting Started
 
