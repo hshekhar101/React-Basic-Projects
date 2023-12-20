@@ -4,7 +4,7 @@ Welcome to my awesome project! This project does amazing things.
 
 ## Background Colour changer
 
-Visit the website : [bg-color-changer]([https://www.example.com](https://bg-clr-changer.netlify.app/))
+Visit the website : [bg-color-changer](https://bg-clr-changer.netlify.app/)
 
 ## Password Generator
 
