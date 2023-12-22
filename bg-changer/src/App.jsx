@@ -46,6 +46,12 @@ function App() {
         <button onClick={()=>setColor("black")} className="btn" style={{backgroundColor:"Black", color:"white"}} id="Black">
           Black
         </button>
+        <footer>
+          <div className="footer-content">
+            <p>&copy; 2023 HIMANSHU SHEKHAR</p>
+            <p>ALL RIGHTS RESERVED</p>
+          </div>
+        </footer>
       </div>
     </div>
   );
